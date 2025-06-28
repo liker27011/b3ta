@@ -1,5 +1,5 @@
 '''
-    Dev: Marlon J. Lopes 
+    Dev: juan pantoja
     Description: 
     Get player name
     Generate two random number into  two dices
