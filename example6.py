@@ -11,6 +11,7 @@ def lanzar_dados():
         print("YOU WIN")
     else:
         print("YOU LOSE")
+        return
 
 
 lanzar_dados()
